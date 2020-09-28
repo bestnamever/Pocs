@@ -1,0 +1,10 @@
+C:\Users\Sander\source\repos\CameraPOC\CameraPOC.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Sander\source\repos\CameraPOC\CameraPOC.Android\obj\Debug\90\build.props
+C:\Users\Sander\source\repos\CameraPOC\CameraPOC.Android\obj\Debug\90\adb.props
+C:\Users\Sander\source\repos\CameraPOC\CameraPOC.Android\obj\Debug\90\CameraPOC.Android.csprojAssemblyReference.cache
+C:\Users\Sander\source\repos\CameraPOC\CameraPOC.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Sander\source\repos\CameraPOC\CameraPOC.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Sander\source\repos\CameraPOC\CameraPOC.Android\obj\Debug\90\res.flag
+C:\Users\Sander\source\repos\CameraPOC\CameraPOC.Android\obj\Debug\90\R.txt
+C:\Users\Sander\source\repos\CameraPOC\CameraPOC.Android\obj\Debug\90\R.cs.flag
+C:\Users\Sander\source\repos\CameraPOC\CameraPOC.Android\obj\Debug\90\CameraPOC.Android.csproj.CoreCompileInputs.cache

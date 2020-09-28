@@ -1,0 +1,6 @@
+C:\Users\Sander\source\repos\CameraPOC\CameraPOC\obj\Debug\netstandard2.0\CameraPOC.csprojAssemblyReference.cache
+C:\Users\Sander\source\repos\CameraPOC\CameraPOC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sander\source\repos\CameraPOC\CameraPOC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Sander\source\repos\CameraPOC\CameraPOC\obj\Debug\netstandard2.0\CameraPOC.AssemblyInfoInputs.cache
+C:\Users\Sander\source\repos\CameraPOC\CameraPOC\obj\Debug\netstandard2.0\CameraPOC.AssemblyInfo.cs
+C:\Users\Sander\source\repos\CameraPOC\CameraPOC\obj\Debug\netstandard2.0\CameraPOC.csproj.CoreCompileInputs.cache
